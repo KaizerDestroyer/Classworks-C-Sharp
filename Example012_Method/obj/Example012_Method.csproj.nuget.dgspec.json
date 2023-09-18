@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karim\\OneDrive\\Рабочий стол\\Actual\\C# lection\\Example012_Method\\Example012_Method.csproj": {}
+    "C:\\Users\\karim\\OneDrive\\Рабочий стол\\C Sharp classwork\\Example012_Method\\Example012_Method.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karim\\OneDrive\\Рабочий стол\\Actual\\C# lection\\Example012_Method\\Example012_Method.csproj": {
+    "C:\\Users\\karim\\OneDrive\\Рабочий стол\\C Sharp classwork\\Example012_Method\\Example012_Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karim\\OneDrive\\Рабочий стол\\Actual\\C# lection\\Example012_Method\\Example012_Method.csproj",
+        "projectUniqueName": "C:\\Users\\karim\\OneDrive\\Рабочий стол\\C Sharp classwork\\Example012_Method\\Example012_Method.csproj",
         "projectName": "Example012_Method",
-        "projectPath": "C:\\Users\\karim\\OneDrive\\Рабочий стол\\Actual\\C# lection\\Example012_Method\\Example012_Method.csproj",
+        "projectPath": "C:\\Users\\karim\\OneDrive\\Рабочий стол\\C Sharp classwork\\Example012_Method\\Example012_Method.csproj",
         "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karim\\OneDrive\\Рабочий стол\\Actual\\C# lection\\Example012_Method\\obj\\",
+        "outputPath": "C:\\Users\\karim\\OneDrive\\Рабочий стол\\C Sharp classwork\\Example012_Method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config"

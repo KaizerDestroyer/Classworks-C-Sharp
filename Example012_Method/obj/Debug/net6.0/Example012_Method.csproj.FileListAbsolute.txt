@@ -13,3 +13,18 @@ C:\Users\karim\OneDrive\Рабочий стол\Actual\C# lection\Example012_Met
 C:\Users\karim\OneDrive\Рабочий стол\Actual\C# lection\Example012_Method\obj\Debug\net6.0\Example012_Method.pdb
 C:\Users\karim\OneDrive\Рабочий стол\Actual\C# lection\Example012_Method\obj\Debug\net6.0\Example012_Method.genruntimeconfig.cache
 C:\Users\karim\OneDrive\Рабочий стол\Actual\C# lection\Example012_Method\obj\Debug\net6.0\ref\Example012_Method.dll
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.csproj.AssemblyReference.cache
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.AssemblyInfoInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.AssemblyInfo.cs
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.csproj.CoreCompileInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.dll
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\refint\Example012_Method.dll
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.pdb
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\bin\Debug\net6.0\Example012_Method.exe
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\bin\Debug\net6.0\Example012_Method.deps.json
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\bin\Debug\net6.0\Example012_Method.runtimeconfig.json
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\bin\Debug\net6.0\Example012_Method.dll
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\bin\Debug\net6.0\Example012_Method.pdb
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\Example012_Method.genruntimeconfig.cache
+C:\Users\karim\OneDrive\Рабочий стол\C Sharp classwork\Example012_Method\obj\Debug\net6.0\ref\Example012_Method.dll
