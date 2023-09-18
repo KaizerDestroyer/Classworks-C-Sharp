@@ -1,0 +1,15 @@
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.csproj.AssemblyReference.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.AssemblyInfoInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.AssemblyInfo.cs
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.csproj.CoreCompileInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\bin\Debug\net6.0\Example004_if.exe
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\bin\Debug\net6.0\Example004_if.deps.json
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\bin\Debug\net6.0\Example004_if.runtimeconfig.json
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\bin\Debug\net6.0\Example004_if.dll
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\bin\Debug\net6.0\Example004_if.pdb
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.dll
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\refint\Example004_if.dll
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.pdb
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\Example004_if.genruntimeconfig.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example004_if\obj\Debug\net6.0\ref\Example004_if.dll

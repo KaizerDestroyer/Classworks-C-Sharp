@@ -1,0 +1,15 @@
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.csproj.AssemblyReference.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.AssemblyInfoInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.AssemblyInfo.cs
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\bin\Debug\net6.0\Example011_ArrayList.exe
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\bin\Debug\net6.0\Example011_ArrayList.deps.json
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\bin\Debug\net6.0\Example011_ArrayList.runtimeconfig.json
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\bin\Debug\net6.0\Example011_ArrayList.dll
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\bin\Debug\net6.0\Example011_ArrayList.pdb
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.dll
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\refint\Example011_ArrayList.dll
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.pdb
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\Example011_ArrayList.genruntimeconfig.cache
+C:\Users\karim\OneDrive\Рабочий стол\C#\Example011_ArrayList\obj\Debug\net6.0\ref\Example011_ArrayList.dll
